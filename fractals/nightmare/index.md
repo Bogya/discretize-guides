@@ -1,7 +1,7 @@
 ## Assault Knights
 Stack <Boon name="might"/> before jumping down. Kill the three *Assault Knights* (Red, Blue and Green), each of them has the same set of abilities: a PBAoE knockdown and an AoE pull which covers the entire room except the knight's position. Break their bar, kill them, MAMA will arise when the three knights are dead, do <Command name="gg"/> to reset fight.
 
-## MAMA
+## MAMA test request
 Stack <Boon name="might"/> before jumping down.
 MAMA will arise, her first atack is a spin, which a Mesmer blocks by sharing <Boon name="aegis"/>. Learn to dodge the spinning attacks after the first and turn away from your party members shortly before the *Vomit Toxin* hits (orange cone), otherwise you will 'infect' party members in front of you with it.    
 Every 25%, MAMA becomes invulnerable and an *Assault Knight* (similar to the knights before) will spawn. Quickly break their breakbar then kill them as MAMA will continue it's attacks.    
