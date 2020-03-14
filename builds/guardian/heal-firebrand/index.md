@@ -14,11 +14,11 @@ code: '[&DQEQLjElPjZLFwMBehb+AEsBNgH+AEgBiRJxEgAAAAAAAAAAAAAAAAAAAAA=]'
 <Message>
 Despite being very common in pugs, this build is not meta! We highly recommend to play [Heal Renegade](/builds/revenant/heal-renegade) instead if your team struggle to survive, since Firebrand can deal way more damage than Renegade.
 </Message>
-This build takes away any responsabilities from the team. If you play this build we highly recommend learning the signet share variant. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals) and practice your rotation until you can execute it by heart.
+If you play this build we highly recommend learning the signet share variant. If you just want a good and smooth run, take a look at the [Fractal Pages](/fractals).
 
-It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>. The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
+It provides permanent <Boon name="Quickness"/>, <Boon name="Regeneration"/>, <Boon name="Fury"/> and a decent amount of might. Exactly like the meta-counterpart it provides good offensive support via <Skill name="Bane Signet"/>, it is improtant to understand that the signet share is essential to faster runs and sharing extra power during Exposed (broken Defiance bar). The main source of <Boon name="Quickness"/> is <Skill name="Restoring Reprieve"/> and <Skill name="Potent Haste"/>; <Skill name="Feel My Wrath"/> is optional.
 
-The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radience) to virtues for more heals.
+The heal firebrand heals with any symbols, dodges, <Boon name="Regeneration"/>, <Skill name="Restoring Reprieve"/>, and if necessary <Skill name="Bow of Truth"/>. If your group is unable to stay alive, you can swap out your offensive support (<Skill name="Bane Signet"/> and radience) to virtues for more heals but it should not be needed.
 
 When <Instability name="Afflicted"/> is present or enemies are applying conditions, you can use <Skill name="Symbol of Swiftness"/> (Staff3) and blast it with <Skill name="Holy Strike"/> (Staff2) for area condition cleanse.
 
